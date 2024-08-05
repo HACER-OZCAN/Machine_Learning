@@ -5,4 +5,6 @@ Background and Objective: Fire forests can occur for several reasons, and the sp
 Material and Method: The project was carried out according to the following steps: In the study, artificial intelligence techniques were used to create several models for fire detection with the help of sensor data. In this project, machine learning classification algorithms were used to detect fires. The models were developed in the Matlab environment and tested with performance evaluation criteria.
 
 Results: As a result of the conducted research, the decision tree models utilized yielded an average accuracy value of approximately 99%, with a positive predictive value of 100%. For ensemble models, the average accuracy was around 97%, accompanied by an average positive predictive value of 96%. In the k-Nearest Neighbors (kNN) models, the average accuracy reached approximately 91%, while the average positive predictive value was about 89%. Regarding Support Vector Machines (SVM) models, an average accuracy of around 93% was achieved and an average positive predictive value of 96%. Through feature selection, model performance, and sensitivity were enhanced up to a success rate of 100%.
+
+
 For the full Article: https://link.springer.com/chapter/10.1007/978-3-031-56322-5_16 
